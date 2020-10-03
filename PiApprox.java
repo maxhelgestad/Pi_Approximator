@@ -1,7 +1,6 @@
 
 import java.lang.Math;
 import java.util.*;
-import java.awt.Point;
 
 public class PiApprox{
 
